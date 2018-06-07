@@ -1,4 +1,4 @@
-package net.eed;
+package net.ed;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

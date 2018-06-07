@@ -1,4 +1,4 @@
-package net.eed;
+package net.ed;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

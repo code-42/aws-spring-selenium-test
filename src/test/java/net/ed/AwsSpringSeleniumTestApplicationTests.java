@@ -1,4 +1,4 @@
-package net.eed;
+package net.ed;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

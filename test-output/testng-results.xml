@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3898" started-at="2018-06-07T23:33:06Z" finished-at="2018-06-07T23:33:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3898" started-at="2018-06-07T23:33:06Z" finished-at="2018-06-07T23:33:10Z">
+      <class name="net.ed.scraper.controller.test.testWebDriver">
+        <test-method status="PASS" signature="testWebDriver()[pri:0, instance:net.ed.scraper.controller.test.testWebDriver@2d928643]" name="testWebDriver" duration-ms="3867" started-at="2018-06-07T23:33:06Z" finished-at="2018-06-07T23:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebDriver -->
+      </class> <!-- net.ed.scraper.controller.test.testWebDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
